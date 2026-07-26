@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/object-map-keys",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Transform an object's own enumerable keys.",
   "keywords": [
     "javascript",
